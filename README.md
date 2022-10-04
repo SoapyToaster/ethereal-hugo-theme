@@ -1,0 +1,1 @@
+# ethereal-hugo-theme
